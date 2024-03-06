@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "John",
+        "image": "https://img.freepik.com/premium-photo/cartoonish-3d-animation-boy-glasses-with-blue-hoodie-orange-shirt_899449-25777.jpg",
+        "chat" : "Hi!, are you there?"
+    },
+    {
+        "id": 2,
+        "name": "Jenny",
+        "image": "https://img.freepik.com/premium-vector/flat-design-character-illustration-character-cartoon-avatar-vector-design-face-girl-boy_659115-35.jpg?size=626&ext=jpg&ga=GA1.1.1319243779.1708732800&semt=ais",
+        "chat" : "Are you coming home tonight?"
+    },
+    {
+        "id": 3,
+        "name": "Ron",
+        "image": "https://cliply.co/wp-content/uploads/2020/08/442008110_GLANCING_AVATAR_3D_400.png",
+        "chat" : "Bring 2Kgs potates, 3Kgs onions, 2Kgs tomatoes, and a pack of tissues on your way way back."
+    },
+    {
+        "id": 4,
+        "name": "Vyon",
+        "image": "https://img.freepik.com/free-psd/3d-illustration-human-avatar-profile_23-2150671116.jpg",
+        "chat" : "Please forward me yeasterday's classwork and homework points, if any."
+    },
+    {
+        "id": 5,
+        "name": "Maya",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpD9lD7ZmN_d8CbucDyDsYL_Rp9l9QzsnOLQ&usqp=CAU",
+        "chat" : "Hi!, are you there?"
+    },
+
+    {
+        "id": 6,
+        "name": "Jishaan",
+        "image": "https://i.pinimg.com/originals/34/f2/50/34f250635ed02218356595ea6d730518.jpg",
+        "chat" : "How are you?"
+    },
+    {
+        "id": 7,
+        "name": "Jishaan",
+        "image": "https://i.pinimg.com/originals/34/f2/50/34f250635ed02218356595ea6d730518.jpg",
+        "chat" : "Thanks for asking, I am fine thank you!?"
+    },
+    {
+        "id": 8,
+        "name": "Jishaan",
+        "image": "https://i.pinimg.com/originals/34/f2/50/34f250635ed02218356595ea6d730518.jpg",
+        "chat" : "Hi!, are you there?"
+    },
+    {
+        "id": 9,
+        "name": "Jishaan",
+        "image": "https://i.pinimg.com/originals/34/f2/50/34f250635ed02218356595ea6d730518.jpg",
+        "chat" : "Call me when yi get free"
+    },
+    {
+        "id": 10,
+        "name": "Jishaan",
+        "image": "https://i.pinimg.com/originals/34/f2/50/34f250635ed02218356595ea6d730518.jpg",
+        "chat" : "Are you free right now?"
+    }
+]
